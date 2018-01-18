@@ -1,0 +1,32 @@
+.btn-plus {
+	font-size: 20px; 
+	font-weight: 300; 
+}
+ 
+.card-icon-arrow {
+	font-size: 28px;
+	cursor: pointer;
+	position: absolute;
+	right: 15px;
+	top: 0px;
+	font-weight: 100;
+}
+
+.card-container {
+	display: flex; 
+}
+
+.card-img{
+	width: 60px;
+	height: 60px; 
+	object-fit: cover;
+}
+
+.card-text {
+	font-weight: 200;
+	margin-left: 10px;
+	font-size: 3em; 
+}
+.card-subtitle {
+	font-weight: 350;
+}
